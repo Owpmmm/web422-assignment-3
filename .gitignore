@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+.env
+.env.*
+.DS_Store
+*.log
+/api url.txt
+/mongodb cluster user and pw.txt
